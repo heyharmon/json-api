@@ -1,5 +1,5 @@
 {
-    "menu": {
+    "menu": [
         {
             "id": 1,
             "slug": "products",
@@ -20,7 +20,7 @@
             "slug": "contact",
             "title": "Contact"
         }
-    },
+    ],
 
     "posts": [
         {
