@@ -1,27 +1,25 @@
 {
     "menu": {
-        "primary": [
-            {
-                "id": 1,
-                "slug": "products",
-                "title": "Products"
-            },
-            {
-                "id": 1,
-                "slug": "services",
-                "title": "Services"
-            },
-            {
-                "id": 1,
-                "slug": "about",
-                "title": "About"
-            },
-            {
-                "id": 1,
-                "slug": "contact",
-                "title": "Contact"
-            }
-        ]
+        {
+            "id": 1,
+            "slug": "products",
+            "title": "Products"
+        },
+        {
+            "id": 1,
+            "slug": "services",
+            "title": "Services"
+        },
+        {
+            "id": 1,
+            "slug": "about",
+            "title": "About"
+        },
+        {
+            "id": 1,
+            "slug": "contact",
+            "title": "Contact"
+        }
     },
 
     "posts": [
