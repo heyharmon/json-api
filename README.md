@@ -1,8 +1,11 @@
 ## Endpoints
 
 [Posts](https://my-json-server.typicode.com/heyharmon/json-placeholder/posts)
+
 [Comments](https://my-json-server.typicode.com/heyharmon/json-placeholder/comments)
+
 [Navigation](https://my-json-server.typicode.com/heyharmon/json-placeholder/navigation)
+
 [Profile](https://my-json-server.typicode.com/heyharmon/json-placeholder/profile)
 
 ## Guide
