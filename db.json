@@ -106,6 +106,29 @@
                     }
                 }
             ]
+        },
+        {
+            "id": 2,
+            "slug": "products",
+            "title": "Products",
+            "blocks": [
+                {
+                    "name": "b-grid-1",
+                    "children": [
+                        {
+                            "name": "c-column-1",
+                            "width": "12",
+                            "alignment": "left",
+                            "children": [
+                                {
+                                    "name": "c-richtext-1",
+                                    "richtext": "<h2>Products</h2>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ],
 
