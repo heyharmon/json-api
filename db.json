@@ -9,16 +9,6 @@
             "id": 2,
             "slug": "services",
             "title": "Services"
-        },
-        {
-            "id": 3,
-            "slug": "about",
-            "title": "About"
-        },
-        {
-            "id": 4,
-            "slug": "contact",
-            "title": "Contact"
         }
     ],
 
@@ -123,6 +113,29 @@
                                 {
                                     "name": "c-richtext-1",
                                     "richtext": "<h2>Products</h2>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "slug": "services",
+            "title": "Services",
+            "blocks": [
+                {
+                    "name": "b-grid-1",
+                    "children": [
+                        {
+                            "name": "c-column-1",
+                            "width": "12",
+                            "alignment": "left",
+                            "children": [
+                                {
+                                    "name": "c-richtext-1",
+                                    "richtext": "<h2>Services</h2>"
                                 }
                             ]
                         }
