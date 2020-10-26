@@ -30,14 +30,14 @@
             "blocks": [
                 {
                     "name": "b-hero-1",
-                    "pre_title": "Pre-title",
-                    "title": "Json ipsum dolor sit amet consectetur adipisicing elit",
-                    "sub_title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
                     "image": {
                         "url": "https://images.unsplash.com/photo-1554559380-823246762a89?auto=format&w=1400&q=80",
                         "alt": "",
                         "caption": ""
                     },
+                    "pre_title": "Pre-title",
+                    "title": "Json ipsum dolor sit amet consectetur adipisicing elit",
+                    "sub_title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
                     "link": {
                         "label":  "Visit Blog",
                         "url":    "/blog",
@@ -73,17 +73,35 @@
                 },
                 {
                     "name": "b-feature-1",
-                    "pre_title": "Pre-title",
-                    "title": "Lorem ipsum dolor sit.",
-                    "sub_title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, rem neque doloribus impedit explicabo minus laborum cupiditate atque esse consectetur.",
                     "image": {
                         "url": "https://images.unsplash.com/photo-1554559380-823246762a89?auto=format&w=800&q=80",
                         "alt": "",
                         "caption": ""
                     },
+                    "flip_horizontal": false,
+                    "pre_title": "Pre-title",
+                    "title": "Lorem ipsum dolor sit.",
+                    "sub_title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, rem neque doloribus impedit explicabo minus laborum cupiditate atque esse consectetur.",
                     "link": {
                         "label": "View Products",
                         "url": "/products",
+                        "target": ""
+                    }
+                },
+                {
+                    "name": "b-feature-1",
+                    "image": {
+                        "url": "https://images.unsplash.com/photo-1554559380-823246762a89?auto=format&w=800&q=80",
+                        "alt": "",
+                        "caption": ""
+                    },
+                    "flip_horizontal": true,
+                    "pre_title": "Pre-title",
+                    "title": "Lorem ipsum dolor sit.",
+                    "sub_title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, rem neque doloribus impedit explicabo minus laborum cupiditate atque esse consectetur.",
+                    "link": {
+                        "label": "View Services",
+                        "url": "/services",
                         "target": ""
                     }
                 }
