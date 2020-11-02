@@ -69,7 +69,7 @@
                     "flip_horizontal": false,
                     "pre_title": "Pre-title",
                     "title": "Lorem ipsum dolor sit.",
-                    "sub_title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, rem neque doloribus impedit explicabo minus laborum cupiditate atque esse consectetur.",
+                    "sub_title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, rem neque doloribus impedit explicabo minus laborum.",
                     "link": {
                         "label": "View Products",
                         "url": "/products",
@@ -86,7 +86,7 @@
                     "flip_horizontal": true,
                     "pre_title": "Pre-title",
                     "title": "Lorem ipsum dolor sit.",
-                    "sub_title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, rem neque doloribus impedit explicabo minus laborum cupiditate atque esse consectetur.",
+                    "sub_title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, rem neque doloribus impedit explicabo minus laborum.",
                     "link": {
                         "label": "View Services",
                         "url": "/services",
@@ -152,8 +152,8 @@
                 "alt": "",
                 "caption": ""
             },
-            "excerpt": "Quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas",
-            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>",
+            "excerpt": "Quia et suscipit suscipit recusandae consequuntur expedita et quas",
+            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non.</h3>\n<hr>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>",
             "link": {
                 "label": "Read Post",
                 "url": "/blog/sunt-aut-facere-repellat",
@@ -170,8 +170,8 @@
                 "alt": "",
                 "caption": ""
             },
-            "excerpt": "Quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas",
-            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>",
+            "excerpt": "Quia et suscipit suscipit recusandae consequuntur expedita et quas",
+            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non.</h3>\n<hr>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>",
             "link": {
                 "label": "Read Post",
                 "url": "/blog/qui-est-esse",
@@ -188,8 +188,8 @@
                 "alt": "",
                 "caption": ""
             },
-            "excerpt": "Quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas",
-            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>",
+            "excerpt": "Quia et suscipit suscipit recusandae consequuntur expedita et quas",
+            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non.</h3>\n<hr>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>",
             "link": {
                 "label": "Read Post",
                 "url": "/blog/molestias-repellat-qui-ipsa-sit-aut",
@@ -206,8 +206,8 @@
                 "alt": "",
                 "caption": ""
             },
-            "excerpt": "Quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas",
-            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>",
+            "excerpt": "Quia et suscipit suscipit recusandae consequuntur expedita et quas",
+            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non.</h3>\n<hr>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>",
             "link": {
                 "label": "Read Post",
                 "url": "/blog/eum-et-est-occaecati",
