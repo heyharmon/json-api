@@ -29,8 +29,8 @@
                     "title": "Json ipsum dolor sit amet consectetur adipisicing elit",
                     "sub_title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
                     "link": {
-                        "label":  "Visit Blog",
-                        "url":    "/blog",
+                        "label": "Visit Blog",
+                        "url": "/blog",
                         "target": ""
                     }
                 },
@@ -153,7 +153,7 @@
             "title": "Sunt aut facere repellat",
             "featured_image": "https://images.unsplash.com/photo-1508615070457-7baeba4003ab?auto=format&w=1280&q=80",
             "excerpt": "Quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas",
-            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://pfannerstill.org/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>"
+            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>"
         },
         {
             "id": 2,
@@ -162,7 +162,7 @@
             "title": "Qui est esse",
             "featured_image": "https://images.unsplash.com/photo-1508615070457-7baeba4003ab?auto=format&w=1280&q=80",
             "excerpt": "Quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas",
-            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://pfannerstill.org/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>"
+            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>"
         },
         {
             "id": 3,
@@ -171,7 +171,7 @@
             "title": "Molestias repellat qui ipsa sit aut",
             "featured_image": "https://images.unsplash.com/photo-1508615070457-7baeba4003ab?auto=format&w=1280&q=80",
             "excerpt": "Quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas",
-            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://pfannerstill.org/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>"
+            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>"
         },
         {
             "id": 4,
@@ -180,7 +180,7 @@
             "title": "Eum et est occaecati",
             "featured_image": "https://images.unsplash.com/photo-1508615070457-7baeba4003ab?auto=format&w=1280&q=80",
             "excerpt": "Quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas",
-            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://pfannerstill.org/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>"
+            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>"
         }
     ]
 }
