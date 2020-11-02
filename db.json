@@ -36,26 +36,24 @@
                 },
                 {
                     "name": "b-grid-1",
-                    "children": [
+                    "columns": [
                         {
-                            "name": "c-column-1",
                             "width": "3",
                             "alignment": "left",
-                            "children": [
+                            "components": [
                                 {
                                     "name": "c-richtext-1",
-                                    "richtext": "<h2>Foo</h2>\n<p>Quia et suscipit suscipit recusandae consequuntur expedita autem.</p>\n"
+                                    "content": "<h2>Foo</h2>\n<p>Quia et suscipit suscipit recusandae consequuntur expedita autem.</p>\n"
                                 }
                             ]
                         },
                         {
-                            "name": "c-column-1",
                             "width": "6",
                             "alignment": "left",
-                            "children": [
+                            "components": [
                                 {
                                     "name": "c-richtext-1",
-                                    "richtext": "<h2>Bar</h2>\n<p>Quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto.</p>\n"
+                                    "content": "<h2>Bar</h2>\n<p>Quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto.</p>\n"
                                 }
                             ]
                         }
@@ -104,15 +102,14 @@
             "blocks": [
                 {
                     "name": "b-grid-1",
-                    "children": [
+                    "columns": [
                         {
-                            "name": "c-column-1",
                             "width": "12",
                             "alignment": "left",
-                            "children": [
+                            "components": [
                                 {
                                     "name": "c-richtext-1",
-                                    "richtext": "<h2>Products</h2>"
+                                    "content": "<h2>Products</h2>"
                                 }
                             ]
                         }
@@ -127,15 +124,14 @@
             "blocks": [
                 {
                     "name": "b-grid-1",
-                    "children": [
+                    "columns": [
                         {
-                            "name": "c-column-1",
                             "width": "12",
                             "alignment": "left",
-                            "children": [
+                            "components": [
                                 {
                                     "name": "c-richtext-1",
-                                    "richtext": "<h2>Services</h2>"
+                                    "content": "<h2>Services</h2>"
                                 }
                             ]
                         }
@@ -151,36 +147,72 @@
             "user_id": 1,
             "slug": "sunt-aut-facere-repellat",
             "title": "Sunt aut facere repellat",
-            "featured_image": "https://images.unsplash.com/photo-1508615070457-7baeba4003ab?auto=format&w=1280&q=80",
+            "image": {
+                "url": "https://images.unsplash.com/photo-1508615070457-7baeba4003ab?auto=format&w=1280&q=80",
+                "alt": "",
+                "caption": ""
+            },
             "excerpt": "Quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas",
-            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>"
+            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>",
+            "link": {
+                "label": "Read Post",
+                "url": "/blog/sunt-aut-facere-repellat",
+                "target": ""
+            }
         },
         {
             "id": 2,
             "user_id": 1,
             "slug": "qui-est-esse",
             "title": "Qui est esse",
-            "featured_image": "https://images.unsplash.com/photo-1508615070457-7baeba4003ab?auto=format&w=1280&q=80",
+            "image": {
+                "url": "https://images.unsplash.com/photo-1508615070457-7baeba4003ab?auto=format&w=1280&q=80",
+                "alt": "",
+                "caption": ""
+            },
             "excerpt": "Quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas",
-            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>"
+            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>",
+            "link": {
+                "label": "Read Post",
+                "url": "/blog/qui-est-esse",
+                "target": ""
+            }
         },
         {
             "id": 3,
             "user_id": 1,
             "slug": "molestias-repellat-qui-ipsa-sit-aut",
             "title": "Molestias repellat qui ipsa sit aut",
-            "featured_image": "https://images.unsplash.com/photo-1508615070457-7baeba4003ab?auto=format&w=1280&q=80",
+            "image": {
+                "url": "https://images.unsplash.com/photo-1508615070457-7baeba4003ab?auto=format&w=1280&q=80",
+                "alt": "",
+                "caption": ""
+            },
             "excerpt": "Quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas",
-            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>"
+            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>",
+            "link": {
+                "label": "Read Post",
+                "url": "/blog/molestias-repellat-qui-ipsa-sit-aut",
+                "target": ""
+            }
         },
         {
             "id": 4,
             "user_id": 1,
             "slug": "eum-et-est-occaecati",
             "title": "Eum et est occaecati",
-            "featured_image": "https://images.unsplash.com/photo-1508615070457-7baeba4003ab?auto=format&w=1280&q=80",
+            "image": {
+                "url": "https://images.unsplash.com/photo-1508615070457-7baeba4003ab?auto=format&w=1280&q=80",
+                "alt": "",
+                "caption": ""
+            },
             "excerpt": "Quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas",
-            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>"
+            "body": "<h3>Omnis dicta quia quae officia reiciendis voluptatem exercitationem non. Animi ullam rerum nesciunt quo voluptas nam sit. Qui voluptatem doloremque omnis nam</h3>\n<hr>\n<p>Mollitia aut laudantium soluta deserunt. Pariatur inventore ipsum quae aut est aliquam. Et non ab et neque.</p>\n<p>Laudantium est <a title=\"Et voluptatibus sunt.\" href=\"http://google.com/\">Excepturi necessitatibus maxime non illo eum</a> In quod inventore possimus dolor placeat laudantium.</p>",
+            "link": {
+                "label": "Read Post",
+                "url": "/blog/eum-et-est-occaecati",
+                "target": ""
+            }
         }
     ]
 }
